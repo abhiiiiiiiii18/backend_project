@@ -1,0 +1,5 @@
+*.env
+.env
+.env*
+/mode_modules
+./dist
